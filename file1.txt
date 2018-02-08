@@ -1,7 +1,4 @@
 local 1
 net   2
-<<<<<<< HEAD
-local 4
-=======
 net   3
->>>>>>> ba3d993e73359f8aafbec29d001650141c35fd20
+local 4
